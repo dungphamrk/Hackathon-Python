@@ -1,0 +1,38 @@
+[
+    {
+        "id": "P001",
+        "name": "Bánh mì",
+        "quantity": 50,
+        "price": 1.5,
+        "supplier": "Nhà A",
+        "inventory_value": 75.0,
+        "status": "Bình thường"
+    },
+    {
+        "id": "P002",
+        "name": "Sữa",
+        "quantity": 30,
+        "price": 0.9,
+        "supplier": "Nhà B",
+        "inventory_value": 27.0,
+        "status": "Bình thường"
+    },
+    {
+        "id": "P003",
+        "name": "Trà",
+        "quantity": 20,
+        "price": 2.0,
+        "supplier": "Nhà C",
+        "inventory_value": 40.0,
+        "status": "Bình thường"
+    },
+    {
+        "id": "BB",
+        "name": "Bánh Bao",
+        "price": 2233.0,
+        "quantity": 67,
+        "supplier": "",
+        "inventory_value": 149611.0,
+        "status": "Khó bán"
+    }
+]
